@@ -1,3 +1,5 @@
-2023/12/27-13:37:01.262 2ee0 Reusing MANIFEST C:\Users\Worker\Desktop\Murad\rollercoin-bot\user_data\Default\Site Characteristics Database/MANIFEST-000001
-2023/12/27-13:37:01.262 2ee0 Recovering log #3
-2023/12/27-13:37:01.263 2ee0 Reusing old log C:\Users\Worker\Desktop\Murad\rollercoin-bot\user_data\Default\Site Characteristics Database/000003.log 
+2023/12/27-23:13:00.918 9efc Log #3: 6 ops saved to Table #4 OK
+2023/12/27-23:13:00.931 9efc Archiving D:\Programming\Projects\rollercoin-bot\user_data\Default\Site Characteristics Database/000003.log: OK
+2023/12/27-23:13:00.931 9efc Table #4: 6 entries OK
+2023/12/27-23:13:00.931 9efc Archiving D:\Programming\Projects\rollercoin-bot\user_data\Default\Site Characteristics Database/MANIFEST-000001: OK
+2023/12/27-23:13:01.064 9efc **** Repaired leveldb D:\Programming\Projects\rollercoin-bot\user_data\Default\Site Characteristics Database; recovered 1 files; 253 bytes. Some data may have been lost. ****

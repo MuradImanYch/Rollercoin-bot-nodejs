@@ -8,6 +8,7 @@ app.listen(8080, async (err) => {
     console.log(`Server on 8080 is running...`);
 
     const scheduledTask = async () => {
+        console.log('wdwefwefwe');
         try {
             const browser = await puppeteer.launch({ headless: false, protocolTimeout: 0, userDataDir: './user_data' });
             const page = await browser.newPage();
